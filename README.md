@@ -7,7 +7,8 @@ Want to quickly get started building your own project with [Prismic][prismic], [
 
 &nbsp;
 
-![Website screenshot](https://user-images.githubusercontent.com/31219208/228821412-fdde92b2-c13c-4287-b799-611fa96a5fd6.png)
+![GlistenOGImage](https://github.com/madhannmady/glisten.ai/assets/123820592/348b1118-ad8b-46ef-b476-d60186a0cb4f)
+
 
 &nbsp;
 
