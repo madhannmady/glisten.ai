@@ -10,7 +10,7 @@ Want to quickly get started building your own project with [Prismic][prismic], [
 ![GlistenOGImage](https://github.com/madhannmady/glisten.ai/assets/123820592/348b1118-ad8b-46ef-b476-d60186a0cb4f)
 
 
-
+&nbsp;
 
 ## 🚀 Quick Start
 
